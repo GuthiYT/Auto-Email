@@ -1,4 +1,3 @@
 # Auto-Email
 
-My first Python Project, which I used to send emails to my teacher that, I indeed have allready woken up and started working ;]]]
-
+My first little Python project, which I used from 2020-2021 in homeschooling to send my teacher an email I am allready working
